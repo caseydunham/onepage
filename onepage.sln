@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zombie", "zombie\zombie.vcxproj", "{DC9AD4B6-BA50-4DA4-B89F-2225076C808A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zombie80x60", "zombie80x60\zombie80x60.vcxproj", "{9B58E4A2-A5B7-4CC3-AFE3-5E6431027463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9AD4B6-BA50-4DA4-B89F-2225076C808A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC9AD4B6-BA50-4DA4-B89F-2225076C808A}.Debug|Win32.Build.0 = Debug|Win32
+		{DC9AD4B6-BA50-4DA4-B89F-2225076C808A}.Release|Win32.ActiveCfg = Release|Win32
+		{DC9AD4B6-BA50-4DA4-B89F-2225076C808A}.Release|Win32.Build.0 = Release|Win32
+		{9B58E4A2-A5B7-4CC3-AFE3-5E6431027463}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B58E4A2-A5B7-4CC3-AFE3-5E6431027463}.Debug|Win32.Build.0 = Debug|Win32
+		{9B58E4A2-A5B7-4CC3-AFE3-5E6431027463}.Release|Win32.ActiveCfg = Release|Win32
+		{9B58E4A2-A5B7-4CC3-AFE3-5E6431027463}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
